@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 
-        <title>MyRewriter | change the words</title>
+        <title>MyRewriter | Change The Words</title>
         <link rel="icon" href="style/img/favicon.png" />
         <link rel="stylesheet" type="text/css" href="style/style.css" />
 
