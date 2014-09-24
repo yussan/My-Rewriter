@@ -1,19 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-
         <title>MyRewriter | Change The Words</title>
         <link rel="icon" href="style/img/favicon.png" />
         <link rel="stylesheet" type="text/css" href="style/style.css" />
-
-
 </head>
-
 <body>
-
         <!--FB script-->
         <div id="fb-root"></div>
-
 
         <!--header-->
         <div id="header">
